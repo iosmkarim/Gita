@@ -1,0 +1,11 @@
+//
+//  Gita-Prod.xcconfig
+//  Gita
+//
+//  Created by Md Rezaul Karim on 12/30/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = bhagavad-gita3.p.rapidapi.com/prod

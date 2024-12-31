@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "utility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iosmkarim/Utility.git",
+      "state" : {
+        "revision" : "b97aff9eee18decf0a6b8649a83b92545f3ce06a",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
